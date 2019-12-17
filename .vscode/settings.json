@@ -1,0 +1,6 @@
+{
+    "git.allowForcePush": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.enabled": true,
+    "git.path": "E:\\git\\Git\\bin\\git.exe" 
+}
